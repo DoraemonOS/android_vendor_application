@@ -5,6 +5,7 @@ LOCAL_PATH := vendor/application
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
     Youtube \
-    MicroG 
+    MicroG \
+    Lawnchair
 
 
